@@ -1,22 +1,22 @@
 body
 {
 margin: 60px auto;
-width: 70%;
+width: 78%;
 }
 nav ul, footer ul {
-font-family:'Helvetica','Arial', 'Sans-Serif':
+font-family:'Helvetica','Arial', 'Sans-Serif';
 padding: 0px;
 list-style: none;
 font-weight: bold;
  }
  nav ul, footer ul li {
     display:inline;
-    margin-eigth:20px;
+    margin-rigth:20px;
  }
  
  a {
-    tex-decoration; none;
-    color; #999
+    text-decoration: none;
+    color: #999;
     }
  a: hover{
     text-decoration: underline;
@@ -28,7 +28,7 @@ font-weight: bold;
    }
    p {
       font-size: 1.5em;
-      line-height:1-4em;
+      line-height:1.4em;
       color: #333;
       }
     footer {
